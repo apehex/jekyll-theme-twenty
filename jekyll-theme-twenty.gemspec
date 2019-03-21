@@ -1,3 +1,4 @@
+# coding: utf-8
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
@@ -6,14 +7,14 @@ Gem::Specification.new do |spec|
   spec.authors       = ["apehex"]
   spec.email         = ["apehex@protonmail.com"]
 
-  spec.summary       = "TODO: Write a short summary, because Rubygems requires one."
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
-  spec.license       = "MIT"
+  spec.summary       = 'A Jekyll version of the \"Twenty\" theme by HTML5 UP.'
+  spec.homepage      = "https://github.com/apehex/jekyll-theme-twenty"
+  spec.license       = "CC-BY-3.0"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README)!i) }
 
   spec.add_runtime_dependency "jekyll", "~> 3.8"
 
-  spec.add_development_dependency "bundler", "~> 1.16"
+  spec.add_development_dependency "bundler", "~> 2.0"
   spec.add_development_dependency "rake", "~> 12.0"
 end
