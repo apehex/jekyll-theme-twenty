@@ -2,7 +2,7 @@
 
 > A Jekyll version of the "Twenty" theme by [HTML5 UP][html5up].
 
-You can preview the theme [here](https://apehex.github.io/jekyll-theme-overfow
+You can preview the theme [here](https://apehex.github.io/jekyll-theme-twenty
 
 ![Twenty Theme](assets/images/screenshot.jpg "Twenty Theme")
 
