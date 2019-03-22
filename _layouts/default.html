@@ -1,1 +1,27 @@
-{{ content }}
+<!DOCTYPE HTML>
+<!--
+    Twenty by HTML5 UP
+    html5up.net | @ajlkn
+    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+    
+    {% include head.html %}
+
+    <body class="index is-preload">
+        <div id="page-wrapper">
+
+            {% include header.html %}
+
+            {{ content }}
+
+            {% include cta.html %}
+
+            {% include footer.html %}
+
+        </div>
+
+        {% include scripts.html %}
+
+    </body>
+</html>
