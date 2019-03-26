@@ -38,6 +38,12 @@
         <li>&copy; {{ site.title }}. All rights reserved.</li>
         <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
         <li>Jekyll integration: <a href="http://github.com/apehex" target="_blank">apehex</a></li>
+        {% if site.legal_terms %}
+        <li><a href="/legal-terms/" target="_blank">Legal Terms</a></li>
+        {% endif %}
+        {% if site.privacy_policy %}
+        <li><a href="/privacy-policy/" target="_blank">Privacy Policy</a></li>
+        {% endif %}
     </ul>
 
 </footer>
