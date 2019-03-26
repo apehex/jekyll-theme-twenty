@@ -3,27 +3,19 @@
     <h1 id="logo"><a href="index.html">{{ site.title }} <span>{{ site.subtitle }}</span></a></h1>
     <nav id="nav">
         <ul>
-            <li class="current"><a href="index.html">Welcome</a></li>
+        {% for item in site.data.navigation.menu %}
+            {% if item.menu[0] %}
             <li class="submenu">
-                <a href="#">Layouts</a>
+                <a href="{{ item.url }}">{{ item.title }}</a>
                 <ul>
-                    <li><a href="left-sidebar.html">Left Sidebar</a></li>
-                    <li><a href="right-sidebar.html">Right Sidebar</a></li>
-                    <li><a href="no-sidebar.html">No Sidebar</a></li>
-                    <li><a href="contact.html">Contact</a></li>
-                    <li class="submenu">
-                        <a href="#">Submenu</a>
-                        <ul>
-                            <li><a href="#">Dolore Sed</a></li>
-                            <li><a href="#">Consequat</a></li>
-                            <li><a href="#">Lorem Magna</a></li>
-                            <li><a href="#">Sed Magna</a></li>
-                            <li><a href="#">Ipsum Nisl</a></li>
-                        </ul>
-                    </li>
+                    {% for subitem in item.menu %}
+                    <li><a href="{{ subitem.url }}">{{ subitem.title }}</a></li>
+                    {% endfor %}
                 </ul>
-            </li>
-            <li><a href="#" class="button primary">Sign Up</a></li>
+            {% else %}
+            <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+            {% endif %}
+        {% endfor %}
         </ul>
     </nav>
 </header>
