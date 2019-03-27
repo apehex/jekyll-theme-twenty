@@ -25,9 +25,10 @@ pinterest_url: https://github.com/apehex
 slack_url: https://github.com/apehex
 twitter_url: https://github.com/apehex
 
-# Legal
-legal_terms: /legal
-privacy_policy: /privacy
+# Optional elements
+logo_url: /assets/images/logo.svg
+legal_terms_url: /legal-terms
+privacy_policy_url: /privacy-policy
 
 # Collections
 collections:
