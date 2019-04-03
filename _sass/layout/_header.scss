@@ -94,6 +94,10 @@
         }
     }
 
+    & * {
+        vertical-align: middle;
+    }
+
     &.reveal {
         @include vendor('animation', 'reveal-header 0.5s');
     }
