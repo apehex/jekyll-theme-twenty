@@ -3,7 +3,8 @@
 input[type="text"],
 input[type="password"],
 input[type="email"],
-textarea {
+textarea,
+select {
     @include vendor('transition', ('background-color 0.2s ease-in-out', 'border-color 0.2s ease-in-out'));
     @include vendor('appearance', 'none');
     position: relative;
@@ -24,7 +25,8 @@ textarea {
 
 input[type="text"],
 input[type="password"],
-input[type="email"] {
+input[type="email"],
+select {
     line-height: 1em;
 }
 
