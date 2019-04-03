@@ -36,6 +36,7 @@ collections:
     output: false
 
 # Build settings
+permalink: pretty
 markdown: kramdown
 sass:
   style: compressed
