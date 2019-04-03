@@ -5,10 +5,10 @@ menu:
     url: /
     menu:
     - title: Left-Sidebar
-      url: /left-sidebar
+      url: /left-sidebar/
     - title: No-Sidebar
-      url: /no-sidebar
+      url: /no-sidebar/
     - title: Right-Sidebar
-      url: /right-sidebar
+      url: /right-sidebar/
   - title: Contact
-    url: /contact
+    url: /contact/

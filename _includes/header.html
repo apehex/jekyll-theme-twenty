@@ -1,25 +1,31 @@
 <!-- Header -->
-<header id="header" class="alt">
+<header id="header" {% if include.class %} class="{{ include.class }}" {% endif %}>
     <h1 id="logo">
-        {% if site.logo_url %}
-        <img src="{{ site.logo_url | absolute_url }}" width="24" height="24"></span>
-        &nbsp;
-        {% endif %}
-        <a href="index.html">{{ site.title }} <span>{{ site.subtitle }}</span></a>
+        <a href="index.html">
+            {% if site.logo_url %}
+            <img src="{{ site.logo_url | absolute_url }}" width="32" height="32">
+            &nbsp;
+            {% endif %}
+            {{ site.title }} <span>{% if site.subtitle.size < 16 %} {{ site.subtitle }} {% endif %}</span>
+        </a>
     </h1>
     <nav id="nav">
         <ul>
         {% for item in site.data.navigation.menu %}
             {% if item.menu[0] %}
-            <li class="submenu">
+            <li class="submenu {% if item.url == page.url %} current {% endif %}">
                 <a href="{{ item.url }}">{{ item.title }}</a>
                 <ul>
                     {% for subitem in item.menu %}
-                    <li><a href="{{ subitem.url }}">{{ subitem.title }}</a></li>
+                    <li {% if subitem.url == page.url %} class="current" {% endif %}>
+                        <a href="{{ subitem.url }}">{{ subitem.title }}</a>
+                    </li>
                     {% endfor %}
                 </ul>
             {% else %}
-            <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+            <li {% if item.url == page.url %} class="current" {% endif %}>
+                <a href="{{ item.url }}">{{ item.title }}</a>
+            </li>
             {% endif %}
         {% endfor %}
         </ul>
