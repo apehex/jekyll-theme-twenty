@@ -6,6 +6,7 @@ input[type="email"],
 textarea {
     @include vendor('transition', ('background-color 0.2s ease-in-out', 'border-color 0.2s ease-in-out'));
     @include vendor('appearance', 'none');
+    position: relative;
     background: none;
     border: solid 1px _palette(border);
     border-radius: 0;
@@ -47,4 +48,16 @@ input[type="email"] {
 :-ms-input-placeholder {
     color: inherit;
     opacity: 0.5;
+}
+
+.required::after {
+    height: 100%;
+    box-sizing: border-box;
+    backgroud-color: blue;
+    content: '*';
+    position: relative;
+    color: red;
+    top: -16px;
+    left: calc(50% + 4px);
+    font-size: 26px;
 }
