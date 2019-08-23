@@ -1,0 +1,62 @@
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  
+  <url>
+    <loc>/contact/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="/contact/" />
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  
+  
+  <url>
+    <loc>/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="/" />
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  
+  
+  <url>
+    <loc>/left-sidebar/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="/left-sidebar/" />
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  
+  
+  <url>
+    <loc>/legal-terms/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="/legal-terms/" />
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  
+  
+  <url>
+    <loc>/no-sidebar/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="/no-sidebar/" />
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  
+  
+  <url>
+    <loc>/privacy-policy/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="/privacy-policy/" />
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  
+  
+  <url>
+    <loc>/right-sidebar/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="/right-sidebar/" />
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  
+</urlset>
