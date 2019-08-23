@@ -25,6 +25,10 @@ $pattern-background-size: 25em;
 		mobile:    ( null,    736px  )
 	));
 
+// Components
+
+@import 'components/cookieconsent';
+
 // Base.
 
 	@import 'base/reset';
@@ -36,6 +40,7 @@ $pattern-background-size: 25em;
 	@import 'components/button';
 	@import 'components/buttons';
 	@import 'components/container';
+	@import 'components/cookieconsent';
 	@import 'components/form';
 	@import 'components/icon';
 	@import 'components/icons';
