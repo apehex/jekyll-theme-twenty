@@ -34,6 +34,17 @@ privacy_policy_url: /privacy-policy
 collections:
   articles:
     output: false
+  redirects:
+    output: true
+    permalink: /:path/
+
+# Default settings
+defaults:
+  -
+    scope:
+      type: "redirects"
+    values:
+      layout: "redirect"
 
 # Build settings
 permalink: pretty
