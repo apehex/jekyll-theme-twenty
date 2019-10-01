@@ -2,12 +2,13 @@
 <header id="header" {% if layout.name=="home" %}class="alt"{% endif %}>
     <h1 id="logo">
         <a href="index.html">
-            {% if site.logo_url %}
-            <img src="{{ site.logo_url | absolute_url }}" width="32" height="32">
+            {%- if site.logo %}
+            <img src="{{ site.logo | absolute_url }}" width="32" height="32">
             &nbsp;
-            {% endif %}
+            {%- endif %}
             {{ site.title }} <span>{% if site.subtitle.size < 16 %} {{ site.subtitle }} {% endif %}</span>
         </a>
     </h1>
     {% include navigation.html menu=include.menu %}
+    {% include language.html %}
 </header>
