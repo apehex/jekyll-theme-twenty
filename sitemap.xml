@@ -1,62 +1,81 @@
 
-
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  
   <url>
     <loc>/contact/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="/contact/" />
+    <xhtml:link rel="alternate" hreflang="" href="/contact/" />
+    <xhtml:link rel="alternate" hreflang="" href="/" />
+    <xhtml:link rel="alternate" hreflang="" href="/left-sidebar/" />
+    <xhtml:link rel="alternate" hreflang="" href="/legal-terms/" />
+    <xhtml:link rel="alternate" hreflang="" href="/no-sidebar/" />
+    <xhtml:link rel="alternate" hreflang="" href="/privacy-policy/" />
+    <xhtml:link rel="alternate" hreflang="" href="/right-sidebar/" />
     <changefreq>weekly</changefreq>
   </url>
-  
-  
-  
   <url>
     <loc>/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="/" />
+    <xhtml:link rel="alternate" hreflang="" href="/contact/" />
+    <xhtml:link rel="alternate" hreflang="" href="/" />
+    <xhtml:link rel="alternate" hreflang="" href="/left-sidebar/" />
+    <xhtml:link rel="alternate" hreflang="" href="/legal-terms/" />
+    <xhtml:link rel="alternate" hreflang="" href="/no-sidebar/" />
+    <xhtml:link rel="alternate" hreflang="" href="/privacy-policy/" />
+    <xhtml:link rel="alternate" hreflang="" href="/right-sidebar/" />
     <changefreq>weekly</changefreq>
   </url>
-  
-  
-  
   <url>
     <loc>/left-sidebar/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="/left-sidebar/" />
+    <xhtml:link rel="alternate" hreflang="" href="/contact/" />
+    <xhtml:link rel="alternate" hreflang="" href="/" />
+    <xhtml:link rel="alternate" hreflang="" href="/left-sidebar/" />
+    <xhtml:link rel="alternate" hreflang="" href="/legal-terms/" />
+    <xhtml:link rel="alternate" hreflang="" href="/no-sidebar/" />
+    <xhtml:link rel="alternate" hreflang="" href="/privacy-policy/" />
+    <xhtml:link rel="alternate" hreflang="" href="/right-sidebar/" />
     <changefreq>weekly</changefreq>
   </url>
-  
-  
-  
   <url>
     <loc>/legal-terms/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="/legal-terms/" />
+    <xhtml:link rel="alternate" hreflang="" href="/contact/" />
+    <xhtml:link rel="alternate" hreflang="" href="/" />
+    <xhtml:link rel="alternate" hreflang="" href="/left-sidebar/" />
+    <xhtml:link rel="alternate" hreflang="" href="/legal-terms/" />
+    <xhtml:link rel="alternate" hreflang="" href="/no-sidebar/" />
+    <xhtml:link rel="alternate" hreflang="" href="/privacy-policy/" />
+    <xhtml:link rel="alternate" hreflang="" href="/right-sidebar/" />
     <changefreq>weekly</changefreq>
   </url>
-  
-  
-  
   <url>
     <loc>/no-sidebar/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="/no-sidebar/" />
+    <xhtml:link rel="alternate" hreflang="" href="/contact/" />
+    <xhtml:link rel="alternate" hreflang="" href="/" />
+    <xhtml:link rel="alternate" hreflang="" href="/left-sidebar/" />
+    <xhtml:link rel="alternate" hreflang="" href="/legal-terms/" />
+    <xhtml:link rel="alternate" hreflang="" href="/no-sidebar/" />
+    <xhtml:link rel="alternate" hreflang="" href="/privacy-policy/" />
+    <xhtml:link rel="alternate" hreflang="" href="/right-sidebar/" />
     <changefreq>weekly</changefreq>
   </url>
-  
-  
-  
   <url>
     <loc>/privacy-policy/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="/privacy-policy/" />
+    <xhtml:link rel="alternate" hreflang="" href="/contact/" />
+    <xhtml:link rel="alternate" hreflang="" href="/" />
+    <xhtml:link rel="alternate" hreflang="" href="/left-sidebar/" />
+    <xhtml:link rel="alternate" hreflang="" href="/legal-terms/" />
+    <xhtml:link rel="alternate" hreflang="" href="/no-sidebar/" />
+    <xhtml:link rel="alternate" hreflang="" href="/privacy-policy/" />
+    <xhtml:link rel="alternate" hreflang="" href="/right-sidebar/" />
     <changefreq>weekly</changefreq>
   </url>
-  
-  
-  
   <url>
     <loc>/right-sidebar/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="/right-sidebar/" />
+    <xhtml:link rel="alternate" hreflang="" href="/contact/" />
+    <xhtml:link rel="alternate" hreflang="" href="/" />
+    <xhtml:link rel="alternate" hreflang="" href="/left-sidebar/" />
+    <xhtml:link rel="alternate" hreflang="" href="/legal-terms/" />
+    <xhtml:link rel="alternate" hreflang="" href="/no-sidebar/" />
+    <xhtml:link rel="alternate" hreflang="" href="/privacy-policy/" />
+    <xhtml:link rel="alternate" hreflang="" href="/right-sidebar/" />
     <changefreq>weekly</changefreq>
   </url>
-  
-  
 </urlset>
