@@ -1,16 +1,31 @@
 # Navigation menu
 menu:
   default:
-    - title: Welcome
-      url: /
-    - title: Layouts
-      url: /
-      menu:
-      - title: Left-Sidebar
-        url: /left-sidebar/
-      - title: No-Sidebar
-        url: /no-sidebar/
-      - title: Right-Sidebar
-        url: /right-sidebar/
-    - title: Contact
-      url: /contact/
+    en:
+      - title: Welcome
+        url: /en/
+      - title: Layouts
+        url: /en/
+        menu:
+        - title: Left-Sidebar
+          url: /en/left-sidebar/
+        - title: No-Sidebar
+          url: /en/no-sidebar/
+        - title: Right-Sidebar
+          url: /en/right-sidebar/
+      - title: Contact
+        url: /en/contact/
+    fr:
+      - title: Bienvenue
+        url: /fr/
+      - title: Mises en Page
+        url: /fr/
+        menu:
+        - title: Colonne Latérale Gauche
+          url: /fr/colonne-gauche/
+        - title: Pas de Colonne Latérale
+          url: /fr/aucune-colonne/
+        - title: Right-Sidebar
+          url: /fr/colonne-droite/
+      - title: Contact
+        url: /fr/contact/
