@@ -1,81 +1,32 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>/contact/</loc>
-    <xhtml:link rel="alternate" hreflang="" href="/contact/" />
-    <xhtml:link rel="alternate" hreflang="" href="/" />
-    <xhtml:link rel="alternate" hreflang="" href="/left-sidebar/" />
-    <xhtml:link rel="alternate" hreflang="" href="/legal-terms/" />
-    <xhtml:link rel="alternate" hreflang="" href="/no-sidebar/" />
-    <xhtml:link rel="alternate" hreflang="" href="/privacy-policy/" />
-    <xhtml:link rel="alternate" hreflang="" href="/right-sidebar/" />
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/</loc>
-    <xhtml:link rel="alternate" hreflang="" href="/contact/" />
-    <xhtml:link rel="alternate" hreflang="" href="/" />
-    <xhtml:link rel="alternate" hreflang="" href="/left-sidebar/" />
-    <xhtml:link rel="alternate" hreflang="" href="/legal-terms/" />
-    <xhtml:link rel="alternate" hreflang="" href="/no-sidebar/" />
-    <xhtml:link rel="alternate" hreflang="" href="/privacy-policy/" />
-    <xhtml:link rel="alternate" hreflang="" href="/right-sidebar/" />
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/left-sidebar/</loc>
-    <xhtml:link rel="alternate" hreflang="" href="/contact/" />
-    <xhtml:link rel="alternate" hreflang="" href="/" />
-    <xhtml:link rel="alternate" hreflang="" href="/left-sidebar/" />
-    <xhtml:link rel="alternate" hreflang="" href="/legal-terms/" />
-    <xhtml:link rel="alternate" hreflang="" href="/no-sidebar/" />
-    <xhtml:link rel="alternate" hreflang="" href="/privacy-policy/" />
-    <xhtml:link rel="alternate" hreflang="" href="/right-sidebar/" />
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/legal-terms/</loc>
-    <xhtml:link rel="alternate" hreflang="" href="/contact/" />
-    <xhtml:link rel="alternate" hreflang="" href="/" />
-    <xhtml:link rel="alternate" hreflang="" href="/left-sidebar/" />
-    <xhtml:link rel="alternate" hreflang="" href="/legal-terms/" />
-    <xhtml:link rel="alternate" hreflang="" href="/no-sidebar/" />
-    <xhtml:link rel="alternate" hreflang="" href="/privacy-policy/" />
-    <xhtml:link rel="alternate" hreflang="" href="/right-sidebar/" />
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/no-sidebar/</loc>
-    <xhtml:link rel="alternate" hreflang="" href="/contact/" />
-    <xhtml:link rel="alternate" hreflang="" href="/" />
-    <xhtml:link rel="alternate" hreflang="" href="/left-sidebar/" />
-    <xhtml:link rel="alternate" hreflang="" href="/legal-terms/" />
-    <xhtml:link rel="alternate" hreflang="" href="/no-sidebar/" />
-    <xhtml:link rel="alternate" hreflang="" href="/privacy-policy/" />
-    <xhtml:link rel="alternate" hreflang="" href="/right-sidebar/" />
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/privacy-policy/</loc>
-    <xhtml:link rel="alternate" hreflang="" href="/contact/" />
-    <xhtml:link rel="alternate" hreflang="" href="/" />
-    <xhtml:link rel="alternate" hreflang="" href="/left-sidebar/" />
-    <xhtml:link rel="alternate" hreflang="" href="/legal-terms/" />
-    <xhtml:link rel="alternate" hreflang="" href="/no-sidebar/" />
-    <xhtml:link rel="alternate" hreflang="" href="/privacy-policy/" />
-    <xhtml:link rel="alternate" hreflang="" href="/right-sidebar/" />
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/right-sidebar/</loc>
-    <xhtml:link rel="alternate" hreflang="" href="/contact/" />
-    <xhtml:link rel="alternate" hreflang="" href="/" />
-    <xhtml:link rel="alternate" hreflang="" href="/left-sidebar/" />
-    <xhtml:link rel="alternate" hreflang="" href="/legal-terms/" />
-    <xhtml:link rel="alternate" hreflang="" href="/no-sidebar/" />
-    <xhtml:link rel="alternate" hreflang="" href="/privacy-policy/" />
-    <xhtml:link rel="alternate" hreflang="" href="/right-sidebar/" />
-    <changefreq>weekly</changefreq>
-  </url>
-</urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>/</loc><xhtml:link rel="alternate" hreflang="" href="/" /><xhtml:link rel="alternate" hreflang="en" href="/en/" /><xhtml:link rel="alternate" hreflang="fr" href="/fr/" /><changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/en/contact/</loc><xhtml:link rel="alternate" hreflang="en" href="/en/contact/" /><xhtml:link rel="alternate" hreflang="fr" href="/fr/contact/" /><changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/en/</loc><xhtml:link rel="alternate" hreflang="" href="/" /><xhtml:link rel="alternate" hreflang="en" href="/en/" /><xhtml:link rel="alternate" hreflang="fr" href="/fr/" /><changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/en/left-sidebar/</loc><xhtml:link rel="alternate" hreflang="en" href="/en/left-sidebar/" /><xhtml:link rel="alternate" hreflang="fr" href="/fr/barre-laterale-gauche/" /><changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/en/legal-terms/</loc><xhtml:link rel="alternate" hreflang="en" href="/en/legal-terms/" /><xhtml:link rel="alternate" hreflang="fr" href="/fr/mentions-legales/" /><changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/en/no-sidebar/</loc><xhtml:link rel="alternate" hreflang="en" href="/en/no-sidebar/" /><xhtml:link rel="alternate" hreflang="fr" href="/fr/sans-barre-laterale/" /><changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/en/privacy-policy/</loc><xhtml:link rel="alternate" hreflang="en" href="/en/privacy-policy/" /><xhtml:link rel="alternate" hreflang="fr" href="/fr/politique-de-confidentialite/" /><changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/en/right-sidebar/</loc><xhtml:link rel="alternate" hreflang="en" href="/en/right-sidebar/" /><xhtml:link rel="alternate" hreflang="fr" href="/fr/barre-laterale-droite/" /><changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/fr/barre-laterale-droite/</loc><xhtml:link rel="alternate" hreflang="en" href="/en/right-sidebar/" /><xhtml:link rel="alternate" hreflang="fr" href="/fr/barre-laterale-droite/" /><changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/fr/barre-laterale-gauche/</loc><xhtml:link rel="alternate" hreflang="en" href="/en/left-sidebar/" /><xhtml:link rel="alternate" hreflang="fr" href="/fr/barre-laterale-gauche/" /><changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/fr/contact/</loc><xhtml:link rel="alternate" hreflang="en" href="/en/contact/" /><xhtml:link rel="alternate" hreflang="fr" href="/fr/contact/" /><changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/fr/</loc><xhtml:link rel="alternate" hreflang="" href="/" /><xhtml:link rel="alternate" hreflang="en" href="/en/" /><xhtml:link rel="alternate" hreflang="fr" href="/fr/" /><changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/fr/mentions-legales/</loc><xhtml:link rel="alternate" hreflang="en" href="/en/legal-terms/" /><xhtml:link rel="alternate" hreflang="fr" href="/fr/mentions-legales/" /><changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/fr/politique-de-confidentialite/</loc><xhtml:link rel="alternate" hreflang="en" href="/en/privacy-policy/" /><xhtml:link rel="alternate" hreflang="fr" href="/fr/politique-de-confidentialite/" /><changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/fr/sans-barre-laterale/</loc><xhtml:link rel="alternate" hreflang="en" href="/en/no-sidebar/" /><xhtml:link rel="alternate" hreflang="fr" href="/fr/sans-barre-laterale/" /><changefreq>weekly</changefreq>
+  </url></urlset>
