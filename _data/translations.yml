@@ -21,11 +21,11 @@ menu:
       - title: Mises en Page
         url: /fr/
         menu:
-        - title: Colonne Latérale Gauche
-          url: /fr/colonne-gauche/
-        - title: Pas de Colonne Latérale
-          url: /fr/aucune-colonne/
-        - title: Right-Sidebar
-          url: /fr/colonne-droite/
+        - title: Barre Latérale Gauche
+          url: /fr/barre-laterale-gauche/
+        - title: Sans Barre Latérale
+          url: /fr/sans-barre-laterale/
+        - title: Barre Latérale Droite
+          url: /fr/barre-laterale-droite/
       - title: Contact
         url: /fr/contact/
