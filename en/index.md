@@ -1,5 +1,7 @@
 ---
 layout: home
+lang-ref: page-home
+title: Jekyll Theme Twenty
 ---
 <!-- Main -->
 <article id="main">

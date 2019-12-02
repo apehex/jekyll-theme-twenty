@@ -1,5 +1,7 @@
 ---
 layout: page
+lang-ref: page-left-sidebar
+title: Behold the Left Sidebar
 ---
 <!-- Main -->
 <article id="main">

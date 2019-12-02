@@ -1,5 +1,7 @@
 ---
 layout: page
+lang-ref: page-no-sidebar
+title: And finally there's No Sidebar
 ---
 <!-- Main -->
 <article id="main">

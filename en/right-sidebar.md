@@ -1,5 +1,7 @@
 ---
 layout: page
+lang-ref: page-right-sidebar
+title: Behold the Right Sidebar
 ---
 <!-- Main -->
 <article id="main">

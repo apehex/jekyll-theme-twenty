@@ -1,5 +1,7 @@
 ---
 layout: page
+lang-ref: page-contact
+title: Give /dev/null a piece of your mind
 ---
 <!-- Main -->
 <article id="main">
