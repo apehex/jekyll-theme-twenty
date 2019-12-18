@@ -35,6 +35,10 @@ privacy_policy:
   third_party:
     hosting: github
 
+# Recaptcha in forms
+recaptcha:
+  sitekey: 6Lc1dcgUAAAAADahcuY9cIFM4iKqezKYOgfO_-Cw
+
 # Collections
 collections:
   articles:
