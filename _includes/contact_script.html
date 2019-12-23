@@ -26,7 +26,7 @@
         disableSubmitInputElement();
     };
     
-    const {{ include.onsubmit_callback | 'sendContactMessage()' }} = function() {
+    const {{ include.onsubmit_callback | 'sendContactMessage' }} = function() {
         encodeURIComponent(nameInputElement.value);
         encodeURIComponent(emailInputElement.value);
         encodeURIComponent(messageInputElement.value);
