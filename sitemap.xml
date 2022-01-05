@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>/</loc><xhtml:link rel="alternate" hreflang="" href="/" /><xhtml:link rel="alternate" hreflang="en" href="/en/" /><xhtml:link rel="alternate" hreflang="fr" href="/fr/" /><changefreq>weekly</changefreq>
+    <loc>https://apehex.github.io/jekyll-theme-twenty/</loc><xhtml:link rel="alternate" hreflang="" href="https://apehex.github.io/jekyll-theme-twenty/" /><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/jekyll-theme-twenty/en/" /><xhtml:link rel="alternate" hreflang="fr" href="https://apehex.github.io/jekyll-theme-twenty/fr/" /><changefreq>weekly</changefreq>
   </url><url>
-    <loc>/en/contact/</loc><xhtml:link rel="alternate" hreflang="en" href="/en/contact/" /><xhtml:link rel="alternate" hreflang="fr" href="/fr/contact/" /><changefreq>weekly</changefreq>
+    <loc>https://apehex.github.io/jekyll-theme-twenty/en/contact/</loc><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/jekyll-theme-twenty/en/contact/" /><xhtml:link rel="alternate" hreflang="fr" href="https://apehex.github.io/jekyll-theme-twenty/fr/contact/" /><changefreq>weekly</changefreq>
   </url><url>
-    <loc>/en/</loc><xhtml:link rel="alternate" hreflang="" href="/" /><xhtml:link rel="alternate" hreflang="en" href="/en/" /><xhtml:link rel="alternate" hreflang="fr" href="/fr/" /><changefreq>weekly</changefreq>
+    <loc>https://apehex.github.io/jekyll-theme-twenty/en/</loc><xhtml:link rel="alternate" hreflang="" href="https://apehex.github.io/jekyll-theme-twenty/" /><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/jekyll-theme-twenty/en/" /><xhtml:link rel="alternate" hreflang="fr" href="https://apehex.github.io/jekyll-theme-twenty/fr/" /><changefreq>weekly</changefreq>
   </url><url>
-    <loc>/en/left-sidebar/</loc><xhtml:link rel="alternate" hreflang="en" href="/en/left-sidebar/" /><xhtml:link rel="alternate" hreflang="fr" href="/fr/barre-laterale-gauche/" /><changefreq>weekly</changefreq>
+    <loc>https://apehex.github.io/jekyll-theme-twenty/en/left-sidebar/</loc><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/jekyll-theme-twenty/en/left-sidebar/" /><xhtml:link rel="alternate" hreflang="fr" href="https://apehex.github.io/jekyll-theme-twenty/fr/barre-laterale-gauche/" /><changefreq>weekly</changefreq>
   </url><url>
-    <loc>/en/legal-terms/</loc><xhtml:link rel="alternate" hreflang="en" href="/en/legal-terms/" /><xhtml:link rel="alternate" hreflang="fr" href="/fr/mentions-legales/" /><changefreq>weekly</changefreq>
+    <loc>https://apehex.github.io/jekyll-theme-twenty/en/legal-terms/</loc><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/jekyll-theme-twenty/en/legal-terms/" /><xhtml:link rel="alternate" hreflang="fr" href="https://apehex.github.io/jekyll-theme-twenty/fr/mentions-legales/" /><changefreq>weekly</changefreq>
   </url><url>
-    <loc>/en/no-sidebar/</loc><xhtml:link rel="alternate" hreflang="en" href="/en/no-sidebar/" /><xhtml:link rel="alternate" hreflang="fr" href="/fr/sans-barre-laterale/" /><changefreq>weekly</changefreq>
+    <loc>https://apehex.github.io/jekyll-theme-twenty/en/no-sidebar/</loc><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/jekyll-theme-twenty/en/no-sidebar/" /><xhtml:link rel="alternate" hreflang="fr" href="https://apehex.github.io/jekyll-theme-twenty/fr/sans-barre-laterale/" /><changefreq>weekly</changefreq>
   </url><url>
-    <loc>/en/privacy-policy/</loc><xhtml:link rel="alternate" hreflang="en" href="/en/privacy-policy/" /><xhtml:link rel="alternate" hreflang="fr" href="/fr/politique-de-confidentialite/" /><changefreq>weekly</changefreq>
+    <loc>https://apehex.github.io/jekyll-theme-twenty/en/privacy-policy/</loc><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/jekyll-theme-twenty/en/privacy-policy/" /><xhtml:link rel="alternate" hreflang="fr" href="https://apehex.github.io/jekyll-theme-twenty/fr/politique-de-confidentialite/" /><changefreq>weekly</changefreq>
   </url><url>
-    <loc>/en/right-sidebar/</loc><xhtml:link rel="alternate" hreflang="en" href="/en/right-sidebar/" /><xhtml:link rel="alternate" hreflang="fr" href="/fr/barre-laterale-droite/" /><changefreq>weekly</changefreq>
+    <loc>https://apehex.github.io/jekyll-theme-twenty/en/right-sidebar/</loc><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/jekyll-theme-twenty/en/right-sidebar/" /><xhtml:link rel="alternate" hreflang="fr" href="https://apehex.github.io/jekyll-theme-twenty/fr/barre-laterale-droite/" /><changefreq>weekly</changefreq>
   </url><url>
-    <loc>/fr/barre-laterale-droite/</loc><xhtml:link rel="alternate" hreflang="en" href="/en/right-sidebar/" /><xhtml:link rel="alternate" hreflang="fr" href="/fr/barre-laterale-droite/" /><changefreq>weekly</changefreq>
+    <loc>https://apehex.github.io/jekyll-theme-twenty/fr/barre-laterale-droite/</loc><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/jekyll-theme-twenty/en/right-sidebar/" /><xhtml:link rel="alternate" hreflang="fr" href="https://apehex.github.io/jekyll-theme-twenty/fr/barre-laterale-droite/" /><changefreq>weekly</changefreq>
   </url><url>
-    <loc>/fr/barre-laterale-gauche/</loc><xhtml:link rel="alternate" hreflang="en" href="/en/left-sidebar/" /><xhtml:link rel="alternate" hreflang="fr" href="/fr/barre-laterale-gauche/" /><changefreq>weekly</changefreq>
+    <loc>https://apehex.github.io/jekyll-theme-twenty/fr/barre-laterale-gauche/</loc><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/jekyll-theme-twenty/en/left-sidebar/" /><xhtml:link rel="alternate" hreflang="fr" href="https://apehex.github.io/jekyll-theme-twenty/fr/barre-laterale-gauche/" /><changefreq>weekly</changefreq>
   </url><url>
-    <loc>/fr/contact/</loc><xhtml:link rel="alternate" hreflang="en" href="/en/contact/" /><xhtml:link rel="alternate" hreflang="fr" href="/fr/contact/" /><changefreq>weekly</changefreq>
+    <loc>https://apehex.github.io/jekyll-theme-twenty/fr/contact/</loc><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/jekyll-theme-twenty/en/contact/" /><xhtml:link rel="alternate" hreflang="fr" href="https://apehex.github.io/jekyll-theme-twenty/fr/contact/" /><changefreq>weekly</changefreq>
   </url><url>
-    <loc>/fr/</loc><xhtml:link rel="alternate" hreflang="" href="/" /><xhtml:link rel="alternate" hreflang="en" href="/en/" /><xhtml:link rel="alternate" hreflang="fr" href="/fr/" /><changefreq>weekly</changefreq>
+    <loc>https://apehex.github.io/jekyll-theme-twenty/fr/</loc><xhtml:link rel="alternate" hreflang="" href="https://apehex.github.io/jekyll-theme-twenty/" /><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/jekyll-theme-twenty/en/" /><xhtml:link rel="alternate" hreflang="fr" href="https://apehex.github.io/jekyll-theme-twenty/fr/" /><changefreq>weekly</changefreq>
   </url><url>
-    <loc>/fr/mentions-legales/</loc><xhtml:link rel="alternate" hreflang="en" href="/en/legal-terms/" /><xhtml:link rel="alternate" hreflang="fr" href="/fr/mentions-legales/" /><changefreq>weekly</changefreq>
+    <loc>https://apehex.github.io/jekyll-theme-twenty/fr/mentions-legales/</loc><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/jekyll-theme-twenty/en/legal-terms/" /><xhtml:link rel="alternate" hreflang="fr" href="https://apehex.github.io/jekyll-theme-twenty/fr/mentions-legales/" /><changefreq>weekly</changefreq>
   </url><url>
-    <loc>/fr/politique-de-confidentialite/</loc><xhtml:link rel="alternate" hreflang="en" href="/en/privacy-policy/" /><xhtml:link rel="alternate" hreflang="fr" href="/fr/politique-de-confidentialite/" /><changefreq>weekly</changefreq>
+    <loc>https://apehex.github.io/jekyll-theme-twenty/fr/politique-de-confidentialite/</loc><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/jekyll-theme-twenty/en/privacy-policy/" /><xhtml:link rel="alternate" hreflang="fr" href="https://apehex.github.io/jekyll-theme-twenty/fr/politique-de-confidentialite/" /><changefreq>weekly</changefreq>
   </url><url>
-    <loc>/fr/sans-barre-laterale/</loc><xhtml:link rel="alternate" hreflang="en" href="/en/no-sidebar/" /><xhtml:link rel="alternate" hreflang="fr" href="/fr/sans-barre-laterale/" /><changefreq>weekly</changefreq>
+    <loc>https://apehex.github.io/jekyll-theme-twenty/fr/sans-barre-laterale/</loc><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/jekyll-theme-twenty/en/no-sidebar/" /><xhtml:link rel="alternate" hreflang="fr" href="https://apehex.github.io/jekyll-theme-twenty/fr/sans-barre-laterale/" /><changefreq>weekly</changefreq>
   </url></urlset>

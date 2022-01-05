@@ -1,106 +1,106 @@
 [{
       "lang"           : "",
       "title"          : "Jekyll Theme Twenty",
-      "description"    : "A responsive site template designed by HTML5 Up ported to Jekyll by apehex and released under the Creative Commons.",
-      "url"            : "/",
+      "description"    : "A responsive site template designed by HTML5 Up ported to Jekyll by APEHEX and released under the Creative Commons.",
+      "url"            : "https://apehex.github.io/jekyll-theme-twenty/",
       "tags"           : "",
       "date"           : ""
     } ,{
       "lang"           : "en",
       "title"          : "Give /dev/null a piece of your mind",
-      "description"    : "A responsive site template designed by HTML5 Up ported to Jekyll by apehex and released under the Creative Commons.",
-      "url"            : "/en/contact/",
+      "description"    : "A responsive site template designed by HTML5 Up ported to Jekyll by APEHEX and released under the Creative Commons.",
+      "url"            : "https://apehex.github.io/jekyll-theme-twenty/en/contact/",
       "tags"           : "",
       "date"           : ""
     } ,{
       "lang"           : "en",
       "title"          : "Jekyll Theme Twenty",
-      "description"    : "A responsive site template designed by HTML5 Up ported to Jekyll by apehex and released under the Creative Commons.",
-      "url"            : "/en/",
+      "description"    : "A responsive site template designed by HTML5 Up ported to Jekyll by APEHEX and released under the Creative Commons.",
+      "url"            : "https://apehex.github.io/jekyll-theme-twenty/en/",
       "tags"           : "",
       "date"           : ""
     } ,{
       "lang"           : "en",
       "title"          : "Behold the Left Sidebar",
-      "description"    : "A responsive site template designed by HTML5 Up ported to Jekyll by apehex and released under the Creative Commons.",
-      "url"            : "/en/left-sidebar/",
+      "description"    : "A responsive site template designed by HTML5 Up ported to Jekyll by APEHEX and released under the Creative Commons.",
+      "url"            : "https://apehex.github.io/jekyll-theme-twenty/en/left-sidebar/",
       "tags"           : "",
       "date"           : ""
     } ,{
       "lang"           : "en",
       "title"          : "Legal Terms",
-      "description"    : "A responsive site template designed by HTML5 Up ported to Jekyll by apehex and released under the Creative Commons.",
-      "url"            : "/en/legal-terms/",
+      "description"    : "A responsive site template designed by HTML5 Up ported to Jekyll by APEHEX and released under the Creative Commons.",
+      "url"            : "https://apehex.github.io/jekyll-theme-twenty/en/legal-terms/",
       "tags"           : "",
       "date"           : ""
     } ,{
       "lang"           : "en",
       "title"          : "And finally there&#39;s No Sidebar",
-      "description"    : "A responsive site template designed by HTML5 Up ported to Jekyll by apehex and released under the Creative Commons.",
-      "url"            : "/en/no-sidebar/",
+      "description"    : "A responsive site template designed by HTML5 Up ported to Jekyll by APEHEX and released under the Creative Commons.",
+      "url"            : "https://apehex.github.io/jekyll-theme-twenty/en/no-sidebar/",
       "tags"           : "",
       "date"           : ""
     } ,{
       "lang"           : "en",
       "title"          : "Privacy Policy",
-      "description"    : "A responsive site template designed by HTML5 Up ported to Jekyll by apehex and released under the Creative Commons.",
-      "url"            : "/en/privacy-policy/",
+      "description"    : "A responsive site template designed by HTML5 Up ported to Jekyll by APEHEX and released under the Creative Commons.",
+      "url"            : "https://apehex.github.io/jekyll-theme-twenty/en/privacy-policy/",
       "tags"           : "",
       "date"           : ""
     } ,{
       "lang"           : "en",
       "title"          : "Behold the Right Sidebar",
-      "description"    : "A responsive site template designed by HTML5 Up ported to Jekyll by apehex and released under the Creative Commons.",
-      "url"            : "/en/right-sidebar/",
+      "description"    : "A responsive site template designed by HTML5 Up ported to Jekyll by APEHEX and released under the Creative Commons.",
+      "url"            : "https://apehex.github.io/jekyll-theme-twenty/en/right-sidebar/",
       "tags"           : "",
       "date"           : ""
     } ,{
       "lang"           : "fr",
       "title"          : "Behold the Right Sidebar",
-      "description"    : "A responsive site template designed by HTML5 Up ported to Jekyll by apehex and released under the Creative Commons.",
-      "url"            : "/fr/barre-laterale-droite/",
+      "description"    : "A responsive site template designed by HTML5 Up ported to Jekyll by APEHEX and released under the Creative Commons.",
+      "url"            : "https://apehex.github.io/jekyll-theme-twenty/fr/barre-laterale-droite/",
       "tags"           : "",
       "date"           : ""
     } ,{
       "lang"           : "fr",
       "title"          : "Behold the Left Sidebar",
-      "description"    : "A responsive site template designed by HTML5 Up ported to Jekyll by apehex and released under the Creative Commons.",
-      "url"            : "/fr/barre-laterale-gauche/",
+      "description"    : "A responsive site template designed by HTML5 Up ported to Jekyll by APEHEX and released under the Creative Commons.",
+      "url"            : "https://apehex.github.io/jekyll-theme-twenty/fr/barre-laterale-gauche/",
       "tags"           : "",
       "date"           : ""
     } ,{
       "lang"           : "fr",
       "title"          : "Give /dev/null a piece of your mind",
-      "description"    : "A responsive site template designed by HTML5 Up ported to Jekyll by apehex and released under the Creative Commons.",
-      "url"            : "/fr/contact/",
+      "description"    : "A responsive site template designed by HTML5 Up ported to Jekyll by APEHEX and released under the Creative Commons.",
+      "url"            : "https://apehex.github.io/jekyll-theme-twenty/fr/contact/",
       "tags"           : "",
       "date"           : ""
     } ,{
       "lang"           : "fr",
       "title"          : "Thème Jekyll Twenty",
-      "description"    : "A responsive site template designed by HTML5 Up ported to Jekyll by apehex and released under the Creative Commons.",
-      "url"            : "/fr/",
+      "description"    : "A responsive site template designed by HTML5 Up ported to Jekyll by APEHEX and released under the Creative Commons.",
+      "url"            : "https://apehex.github.io/jekyll-theme-twenty/fr/",
       "tags"           : "",
       "date"           : ""
     } ,{
       "lang"           : "fr",
       "title"          : "Mentions Légales",
-      "description"    : "A responsive site template designed by HTML5 Up ported to Jekyll by apehex and released under the Creative Commons.",
-      "url"            : "/fr/mentions-legales/",
+      "description"    : "A responsive site template designed by HTML5 Up ported to Jekyll by APEHEX and released under the Creative Commons.",
+      "url"            : "https://apehex.github.io/jekyll-theme-twenty/fr/mentions-legales/",
       "tags"           : "",
       "date"           : ""
     } ,{
       "lang"           : "fr",
       "title"          : "Politique de Confidentialité",
-      "description"    : "A responsive site template designed by HTML5 Up ported to Jekyll by apehex and released under the Creative Commons.",
-      "url"            : "/fr/politique-de-confidentialite/",
+      "description"    : "A responsive site template designed by HTML5 Up ported to Jekyll by APEHEX and released under the Creative Commons.",
+      "url"            : "https://apehex.github.io/jekyll-theme-twenty/fr/politique-de-confidentialite/",
       "tags"           : "",
       "date"           : ""
     } ,{
       "lang"           : "fr",
       "title"          : "Aucune Barre Latérale",
-      "description"    : "A responsive site template designed by HTML5 Up ported to Jekyll by apehex and released under the Creative Commons.",
-      "url"            : "/fr/sans-barre-laterale/",
+      "description"    : "A responsive site template designed by HTML5 Up ported to Jekyll by APEHEX and released under the Creative Commons.",
+      "url"            : "https://apehex.github.io/jekyll-theme-twenty/fr/sans-barre-laterale/",
       "tags"           : "",
       "date"           : ""
     } ]
