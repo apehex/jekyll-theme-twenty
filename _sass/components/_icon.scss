@@ -66,6 +66,15 @@
                 background: lighten(_palette(dribbble, bg), 4);
             }
         }
+
+        &.fa-instagram {
+            background: #ff9900;
+            color: #ffffff;
+
+            &:hover {
+                background: lighten(#ff9900, 4);
+            }
+        }
     }
 
     &.featured {
